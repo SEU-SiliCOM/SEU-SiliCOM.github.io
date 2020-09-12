@@ -1,4 +1,4 @@
-# [SiliCOM Docs](https://silicom.gitee.io)
+# SiliCOM Docs
 
 > 欢迎来到东南大学SiliCOM电脑协会的文档仓库!  
 
