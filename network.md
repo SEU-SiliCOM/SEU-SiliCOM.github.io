@@ -1,9 +1,11 @@
-> 此篇文章整合了常见网络问题的解决方案，供同学进行自查。
+## 网络问题
+> 整合了常见网络问题的解决方案，供同学进行自查。
 `首先在此强调，重启能解决的问题不是问题` :-)
-***
-# 一般问题解决步骤
 
-## 手动指定DNS服务器
+### 一般问题解决步骤
+
+#### 手动指定DNS服务器
+
 建议的DNS服务器：  
 > DNSPod `119.29.29.29`  
 阿里DNS `223.5.5.5`  
@@ -12,7 +14,7 @@ Google DNS `8.8.8.8`  `8.8.4.4`
 
 实际使用请结合自身网络环境设置合适的DNS服务器
 
-## ipconfig 命令
+#### ipconfig 命令
 1.Windows键+R运行，输入cmd，回车。  
 
 ![image][img1]  
@@ -22,17 +24,18 @@ Google DNS `8.8.8.8`  `8.8.4.4`
 `ipconfig /release`  
 `ipconfig /renew`
 
-## 重置winsock
+#### 重置winsock
 Windows键+R运行，输入cmd，Ctrl+Shift+回车即可用管理员权限运行cmd  
 运行 `netsh winsock reset`  
 
-## 重置网络（终极解决方案，适用于Windows10）  
+#### 重置网络（终极解决方案，适用于Windows10）  
 Win+S快捷键搜索 `网络重置`  
 ![][img2]
 
-<br>
 
-# 找不到WiFi图标/驱动问题
+
+### 找不到WiFi图标/驱动问题
+
 **笔记本用户先检查键盘的Fn功能区是否禁用了WiFi网卡**  
 **先在 网络连接 页面检查无线网卡是否被禁用**
 
@@ -49,23 +52,36 @@ Win+S快捷键搜索 `网络重置`
 
    可从其他有互联网连接的电脑下载好*驱动精灵万能网卡版*或其他离线驱动安装包进行安装。<br><br>
 
-# 代理服务器没有响应/Proxy error或相关提示
+### 代理服务器没有响应/Proxy error或相关提示
 
 请检查`VPN或代理`设置是否正确，不正确的配置或者未正常退出会导致此类问题。  
 未正确关闭代理软件会导致此问题，重新运行相关软件并手动退出。（举例: EasyConnect未退出就关机可能引发未知问题)
 
-<br>
 
-# 奇怪的问题（欢迎补充）
+
+### 奇怪的问题（欢迎补充）
 请检查是否安装了WiFi共享软件，若有，卸载它。
 
 
----
+***
 
 
+## 网络工具
 
 
+### 实用网站
+[speedtest.net](https://www.speedtest.net/)  测速  
+[fast.com](https://fast.com/zh/cn/)  测速(Netflix服务器，中国大陆不可用)  
+[ping.pe](https://ping.pe/)  全球ping测试  
+[chinaz.com](https://tool.chinaz.com/sitespeed) 站长测速  
+[ipip.net](https://www.ipip.net/ip.html)  IP库查询  
+[ipip.net](https://tools.ipip.net/traceroute.php)  在线路由跟踪，亦有客户端提供下载
 
+### 下载工具
+- IDM (付费软件)
+- FDM
+- BitComet (BT/Torrent)
+  
 
 [](存放图片)  
 
