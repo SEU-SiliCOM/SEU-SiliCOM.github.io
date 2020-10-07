@@ -10,7 +10,7 @@
 
 [ProcessOn免费在线作图、实时协作](免费在线作图、实时协作)  
 [tinypng在线图片压缩](https://tinypng.com/)  
-[squoosh图片压缩](https://squoosh.app/)
+[squoosh图片压缩](https://squoosh.app/)  
 [iLovePDF-PDF在线处理](https://www.ilovepdf.com/)
 
 ### 文件传输
