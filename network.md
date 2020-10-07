@@ -76,7 +76,7 @@ Win+S快捷键搜索 `网络重置`
 [ping.pe](https://ping.pe/)  全球ping测试  
 [chinaz.com](https://tool.chinaz.com/sitespeed) 站长测速  
 [ipip.net](https://www.ipip.net/ip.html)  IP库查询  
-[ipip.net](https://tools.ipip.net/traceroute.php)  在线路由跟踪，亦有客户端提供下载
+[ipip.net](https://tools.ipip.net/traceroute.php)  在线路由跟踪，亦有客户端提供下载  
 [test-ipv6.com](https://test-ipv6.com/)  ipv6测试  
 
 ### 下载工具
