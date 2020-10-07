@@ -10,9 +10,10 @@
 > DNSPod `119.29.29.29`  
 阿里DNS `223.5.5.5`  
 清华tuna DNS `101.6.6.6` , `2001:da8::666`  
-Google DNS `8.8.8.8`  `8.8.4.4`  
+Google DNS `8.8.8.8` , `8.8.4.4`  
+Cloudflare DNS `1.1.1.1` , `1.0.0.1` 
 
-实际使用请结合自身网络环境设置合适的DNS服务器
+实际使用请结合自身网络环境设置合适的DNS服务器 (国内用户推荐使用延迟较低的DNS)
 
 #### ipconfig 命令
 1.Windows键+R运行，输入cmd，回车。  
@@ -69,19 +70,36 @@ Win+S快捷键搜索 `网络重置`
 ## 网络工具
 
 
-### 实用网站
+### 实用检测网站
 [speedtest.net](https://www.speedtest.net/)  测速  
 [fast.com](https://fast.com/zh/cn/)  测速(Netflix服务器，中国大陆不可用)  
 [ping.pe](https://ping.pe/)  全球ping测试  
 [chinaz.com](https://tool.chinaz.com/sitespeed) 站长测速  
 [ipip.net](https://www.ipip.net/ip.html)  IP库查询  
 [ipip.net](https://tools.ipip.net/traceroute.php)  在线路由跟踪，亦有客户端提供下载
+[test-ipv6.com](https://test-ipv6.com/)  ipv6测试  
 
 ### 下载工具
 - IDM (付费软件)
 - FDM
 - BitComet (BT/Torrent)
   
+
+
+## 网络知识
+
+### 运营商线路
+网络体验不止与带宽大小有关  
+推荐阅读：[【杂谈】运营商链路简评&鉴别（163/169/CN2等)](https://luotianyi.vc/4242.html)
+
+
+### WiFi简介
+原标题：你不了解的「WiFi」从技术原理 应用 讲到行业的未来 一个视频彻底讲清楚 「硬核无线技术」系列视频 WiFi篇  
+[YouTube原地址](https://www.youtube.com/watch?v=4w6_zWSrZw4)
+[Bilibili非官方搬运](https://www.bilibili.com/video/BV125411a7zx?from=search&seid=9919027577599999627)
+
+
+
 
 [](存放图片)  
 
