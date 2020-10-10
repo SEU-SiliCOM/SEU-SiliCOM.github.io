@@ -2,7 +2,7 @@
 **我们在此提供官网链接，若在别处下载，自担风险**  
 
 ## 实用网站
-[欢迎补充]  
+`欢迎补充`  
 ### 综合类
 
 [兔二工具](https://www.tool22.com/)  
@@ -11,10 +11,10 @@
 
 ### 图片相关
 
-[ProcessOn免费在线作图、实时协作](免费在线作图、实时协作)  
-[tinypng在线图片压缩](https://tinypng.com/)  
-[squoosh图片压缩](https://squoosh.app/)  
-[iLovePDF-PDF在线处理](https://www.ilovepdf.com/)
+[ProcessOn 免费在线作图、实时协作](免费在线作图、实时协作)  
+[tinypng 在线图片压缩](https://tinypng.com/)  
+[squoosh 图片压缩](https://squoosh.app/)  
+[iLovePDF PDF在线处理](https://www.ilovepdf.com/)
 
 ### 文件传输
 
@@ -31,7 +31,7 @@
 
 
 ## 日常软件推荐
-[无利益相关，仅推荐，自行考虑是否使用]   
+`无利益相关，仅推荐，自行考虑是否使用`   
 [FireFox浏览器](https://www.mozilla.org/zh-CN/firefox/) 另有[中国版](http://www.firefox.com.cn/)  
 [Chrome浏览器](https://www.google.com/intl/zh-CN/chrome/) 注意Google相关服务在大陆的连通性问题  
 （待完善）
