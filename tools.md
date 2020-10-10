@@ -1,8 +1,9 @@
 **极其不建议安装任何“管家”“卫士”类软件**  
 **在此提供官网链接，若在别处下载，自担风险**  
+`欢迎补充`  
 
 ## 实用网站
-`欢迎补充`  
+ 
 ### 综合类
 
 [兔二工具](https://www.tool22.com/)  
@@ -31,11 +32,11 @@
 
 
 ## 日常软件推荐
-`无利益相关，仅推荐，自行考虑是否使用`   
+ 
 [FireFox浏览器](https://www.mozilla.org/zh-CN/firefox/) 另有[中国版](http://www.firefox.com.cn/)  
 [Chrome浏览器](https://www.google.com/intl/zh-CN/chrome/) 注意Google相关服务在大陆的连通性问题  
-（待完善）
-
+（待完善）  
+`无利益相关，仅推荐，自行考虑是否使用`  
 
 
 ## 维护工具
