@@ -4,6 +4,7 @@
 
 文档由[docsify](https://docsify.js.org/)生成，托管于Gitee Pages.  
 仓库地址：[https://gitee.com/silicom/silicom](https://gitee.com/silicom/silicom)  
+欢迎加入20-SiliCOM电脑答疑群：589221165  
 文档尚未完善，欢迎贡献(PR)! 若有任何问题请发issue  
 
 `移动端访问请点击左下角展开菜单`  
