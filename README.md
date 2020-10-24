@@ -4,16 +4,16 @@
 
 文档由[docsify](https://docsify.js.org/)生成，托管于Gitee Pages.  
 仓库地址：[https://gitee.com/silicom/silicom](https://gitee.com/silicom/silicom)  
-欢迎加入**20-SiliCOM电脑答疑群**：589221165  
-文档尚未完善，欢迎贡献(PR)! 若有任何问题请发issue  
+欢迎加入[**20-SiliCOM电脑答疑群**](https://jq.qq.com/?_wv=1027&k=3n7so4dc)(QQ)  
+文档正在完善，欢迎贡献(PR)! 若有任何问题请发issue或在项目仓库评论  
 
-`移动端访问请点击左下角展开菜单`  
+`注：移动端访问请点击左下角展开菜单`  
 
 ***
 > 义诊  
 
 请先填写问卷：https://wj.qq.com/s2/7216491/50db/  
-地点：J2 204（一般在J2 210，特殊情况会更新，教室没人就是没有及时更新信息）  
+地点：J2 204（一般在J2 210，特殊情况会更新）  
 时间：每周六晚7:00-8:00  
 更新时间：2020/10/22
 ***
