@@ -109,6 +109,12 @@ Win+S快捷键搜索 `网络重置`
 [YouTube原地址](https://www.youtube.com/watch?v=4w6_zWSrZw4) B站有未经授权的转载，在此不放链接
 
 
+### DNS知识
+DNS 是互联网核心协议之一。不管是上网浏览，还是编程开发，都需要了解一点它的知识。  
+[DNS 原理入门](http://www.ruanyifeng.com/blog/2016/06/dns.html)  
+[DNS服务器搭建与配置](https://cshihong.github.io/2018/10/15/DNS%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E4%B8%8E%E9%85%8D%E7%BD%AE/）  
+
+
 
 
 [](存放图片)  
