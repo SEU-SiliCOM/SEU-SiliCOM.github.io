@@ -10,6 +10,10 @@
 [OSCHINA在线工具](https://tool.oschina.net/)  
 [快用工具](https://www.fastools.cn)  
 
+### 搜索类
+
+[电子书搜索](https://ebook.chongbuluo.com/)
+
 ### 图片相关
 
 [ProcessOn 免费在线作图、实时协作](免费在线作图、实时协作)  
