@@ -12,7 +12,7 @@
 
 ### 搜索类
 
-[电子书搜索](https://ebook.chongbuluo.com/)
+[电子书搜索](https://ebook.chongbuluo.com/)  
 
 ### 图片相关
 
@@ -39,7 +39,10 @@
  
 [FireFox浏览器](https://www.mozilla.org/zh-CN/firefox/) 另有[中国版](http://www.firefox.com.cn/)  
 [Chrome浏览器](https://www.google.com/intl/zh-CN/chrome/) 注意Google相关服务在大陆的连通性问题  
-（待完善）  
+[7zip](https://sparanoid.com/lab/7z/) 开源压缩软件，仅1MB大小  
+[Bandizip](https://cn.bandisoft.com/bandizip/) 压缩软件，免费，有广告  
+[火绒安全软件](https://www.huorong.cn/person5.html) 适合国情的轻量防护，不毒瘤  
+(待完善)  
 `无利益相关，仅推荐，自行考虑是否使用`  
 
 
