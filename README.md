@@ -14,8 +14,7 @@
 > 义诊  
 
 请先填写问卷：https://wj.qq.com/s2/7216491/50db/  
-地点：J2 210（一般在J2 210，特殊情况会更新）  
-时间：周六晚7:00-8:00  
-更新时间：2020/10/27
+地点：J2 310（一般在J2 210，特殊情况会更新）  
+时间：2020/10/31 周六晚7:00-8:00
 ***
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"></a>我们采用<a rel="license" href="http://creativecommons.org/licenses/by/4.0/deed.zh">知识共享署名 4.0 国际许可协议</a>进行许可。  
