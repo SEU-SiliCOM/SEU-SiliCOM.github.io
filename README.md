@@ -4,8 +4,8 @@
 
 文档由[docsify](https://docsify.js.org/)生成，托管于Gitee Pages.  
 仓库地址：[https://gitee.com/silicom/silicom](https://gitee.com/silicom/silicom)  
-文档正在完善，欢迎贡献(PR)!  
-评论插件已部署，现可畅所欲言！
+文档正在完善，欢迎贡献(PR)  
+评论插件已部署，现可畅所欲言!  
 
 欢迎加入[**20-SiliCOM电脑答疑群**](https://jq.qq.com/?_wv=1027&k=1SXJiOPz)(QQ)  
 
