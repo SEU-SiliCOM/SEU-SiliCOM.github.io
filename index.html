@@ -12,11 +12,14 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      relativePath: true,
-      loadSidebar: true,
-      subMaxLevel: 3,
+      relativePath: true, 
+      routerMode: 'history',
+      loadSidebar: true, //开启侧边栏
+      autoHeader: true, //内容自动为每个页面增加标题
+      subMaxLevel: 3, //侧边栏最大三级标题
       name: 'SiliCOM的文档仓库',
       repo: 'https://gitee.com/silicom/silicom',
+      auto2top: true,
       Valine: {
               appId: 'X4tIVWAGxaTdEnQrUM8Px4px-MdYXbMMI',
               appKey: '6gA1Ih73urzirCHpPbHeRtDi',
@@ -24,10 +27,8 @@
               placeholder: '畅所欲言! (评论时填写邮箱，会收到回复提醒邮件，而且会自动获取对应的Gravatar头像)',
               Gravatar: 'retro',
         }
-    }
-  </script>
-  <script>
-  if(window.location.hash){
+    };
+    if(window.location.hash){
         var checkExist = setInterval(function() {
            if ($(window.location.hash).length) {
               $('html, body').animate({scrollTop: $(window.location.hash).offset().top-90}, 1000);
