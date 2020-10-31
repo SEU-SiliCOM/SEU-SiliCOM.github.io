@@ -12,14 +12,14 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      //routerMode: 'history', //vue history Router-mode, 去除难看的'/#/' //与pages托管冲突，回到默认hash模式
+      //routerMode: 'history', //vue history Router-mode, 去除难看的'/#/'. 但与pages托管冲突，回到默认hash模式
       loadSidebar: true, //开启侧边栏
       autoHeader: true, //内容自动为每个页面增加标题
       subMaxLevel: 3, //侧边栏最大三级标题
       name: 'SiliCOM的文档仓库',
       repo: 'https://gitee.com/silicom/silicom',
       auto2top: true,
-      Valine: {
+      Valine: { //valine评论配置
               appId: 'X4tIVWAGxaTdEnQrUM8Px4px-MdYXbMMI',
               appKey: '6gA1Ih73urzirCHpPbHeRtDi',
               visitor: 'true',
@@ -27,7 +27,7 @@
               Gravatar: 'retro',
         }
     };
-    if(window.location.hash){
+    if(window.location.hash){ //待修改
         var checkExist = setInterval(function() {
            if ($(window.location.hash).length) {
               $('html, body').animate({scrollTop: $(window.location.hash).offset().top-90}, 1000);
