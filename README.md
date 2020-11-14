@@ -20,6 +20,6 @@
 请保持关注，若有特殊情况会更新  
 `拆机属于风险操作，请务必认真阅读问卷内容。如求万无一失请去售后寻求专业人士帮助。`  
 `拆机属于风险操作，请务必认真阅读问卷内容。如求万无一失请去售后寻求专业人士帮助。`  
-`拆机属于风险操作，请务必认真阅读问卷内容。如求万无一失请去售后寻求专业人士帮助。`  
+<font face="黑体" color=red size=7>拆机属于风险操作，请务必认真阅读问卷内容。如求万无一失请去售后寻求专业人士帮助。</font>  
 ***
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"></a>我们采用<a rel="license" href="http://creativecommons.org/licenses/by/4.0/deed.zh">知识共享署名 4.0 国际许可协议</a>进行许可。  
