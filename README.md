@@ -14,7 +14,7 @@
 ***
 > 义诊  
 
-请先填写问卷：[点我](https://wj.qq.com/s2/7216491/50db/)  
+请先填写问卷：[点我](https://docs.qq.com/form/page/DSnBqUnpFeW1acU1S?_w_tencentdocx_form=1)  
 周六晚7点~8点 @ `J2 210`  
 义诊时间：`2020-12-12`  
 请保持关注，最迟在周六前更新，若当天信息还未更新即为取消  
