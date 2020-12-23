@@ -5,3 +5,4 @@
 * [实用工具](tools.md)
 * [SEU](seu_net.md)
 * [校园网体验反馈版块](feedback.md)
+* [SiliCOM人物志(待鸽)](biography.md)
