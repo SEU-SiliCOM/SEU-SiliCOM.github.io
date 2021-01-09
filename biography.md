@@ -6,11 +6,15 @@
 
 ### 尊姓大名
 
-<center><font face="微软雅黑" color=00DD99 size=5>特朗普</font></center>
+<font face="微软雅黑" color=00DD99 size=4>特朗普</font>
 
 ### 骚气的人物照片
 
-<center><img src="biography.assets/Trump.jpg" style="zoom:100%;" /></center>
+<img src="biography.assets/Trump.jpg"
+      height="250" 
+      title="特朗普" 
+      alt="特朗普" 
+      margin:0/>
 
 ### 传奇经历
 
