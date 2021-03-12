@@ -14,7 +14,7 @@
 ***
 > 义诊  
 
-`目前学校的预约系统有问题，无法借教室，义诊暂停  
+`目前学校的预约系统有问题，无法借教室，义诊暂停`  
 请先填写问卷：[点我](https://docs.qq.com/form/page/DSnBqUnpFeW1acU1S?_w_tencentdocx_form=1)  
 义诊时间：`None`  
 
