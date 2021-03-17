@@ -11,12 +11,12 @@
 
 ### GitHub
 
-![rawgithubusercontent](https://i.loli.net/2021/03/18/H68pvi1gFL2JId9.png)
+![rawgithubusercontent](https://i.loli.net/2021/03/18/Jvr2a37QK8mFAlP.jpg)
 
 ### steam聊天(好友网络、创意工坊等均类似)
 
 这是我们的DNS解析结果，就近接入akamai日本节点（众多游戏平台均使用Akamai CDN）：  
-![steam-chat](https://i.loli.net/2021/03/18/H68pvi1gFL2JId9.png)
+![steam-chat](https://i.loli.net/2021/03/18/J7kVaZMPxRrT9Du.jpg)
 
 而其他DNS服务器解析结果颇为随机，环游美西、绕美去德、绕美回港等情况往往使你的体验严重受损。  
 ![SEUWLAN默认DNS](https://i.loli.net/2021/03/18/cNJu2BfAhOsmP5I.jpg)
