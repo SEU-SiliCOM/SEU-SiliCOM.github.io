@@ -22,7 +22,8 @@
 ***
 > 捐赠  
 
-`如果你喜欢我们的社团，可以赞助我们买包辣条。`  
+如果你喜欢我们的社团，可以赞助我们买包辣条。
+用于购置螺丝刀硅脂等工具耗材。  
 <center>
 <figure>
 <img src="https://i.loli.net/2021/03/23/eElXiTqw8buA93M.png" width = "400" height = "400"/>
