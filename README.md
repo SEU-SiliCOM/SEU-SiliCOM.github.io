@@ -22,8 +22,8 @@
 `如果你喜欢我们的社团，可以赞助我们买包辣条。`  
 <center>
 <figure>
-<img src="https://sm.ms/image/eElXiTqw8buA93M" target="_blank"><img src="https://i.loli.net/2021/03/23/eElXiTqw8buA93M.png" />
-<img src="https://sm.ms/image/OlrdBsTxDHbv1KY" target="_blank"><img src="https://i.loli.net/2021/03/23/OlrdBsTxDHbv1KY.png" />
+<img src="https://i.loli.net/2021/03/23/eElXiTqw8buA93M.png" width = "200" height = "200"/>
+<img src="https://i.loli.net/2021/03/23/OlrdBsTxDHbv1KY.png" width = "200" height = "200"/>
 </figure>
 </center>
 <!-- <font face="微软雅黑" color=red size=6>拆机属于风险操作，请务必认真阅读问卷内容。如求万无一失请去售后寻求专业人士帮助。</font> -->  
