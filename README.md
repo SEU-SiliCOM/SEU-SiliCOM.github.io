@@ -18,7 +18,10 @@
 请先填写问卷：[点我](https://docs.qq.com/form/page/DSnBqUnpFeW1acU1S?_w_tencentdocx_form=1)  
 义诊地点：`None`  
 义诊时间：`本周春游`  
+
+***
 > 捐赠  
+
 `如果你喜欢我们的社团，可以赞助我们买包辣条。`  
 <center>
 <figure>
@@ -27,5 +30,6 @@
 </figure>
 </center>
 <!-- <font face="微软雅黑" color=red size=6>拆机属于风险操作，请务必认真阅读问卷内容。如求万无一失请去售后寻求专业人士帮助。</font> -->  
+
 ***
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"></a>我们采用<a rel="license" href="http://creativecommons.org/licenses/by/4.0/deed.zh">知识共享署名 4.0 国际许可协议</a>进行许可。  
