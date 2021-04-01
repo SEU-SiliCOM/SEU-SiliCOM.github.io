@@ -34,5 +34,5 @@ Uplay客户端更新是否让你痛不欲生？我们的DNS解析为您提供良
 我们为您优选上海节点：  
 ![shanghai](https://i.loli.net/2021/03/18/pYyOhSBDWcmTj5H.jpg)
 
-不必远赴广州（对比校园网默认DNS）：
+不必远赴广州（对比校园网默认DNS）：  
 ![guangzhou](https://i.loli.net/2021/03/18/cErU7IlVG4NfqMz.jpg)
