@@ -2,7 +2,7 @@
 
 为改善校园内上网体验，社团在内网提供DNS服务，IP为`10.201.151.13`
 
-本DNS从 AliDNS DNSPod 360 IIJ 四个上游 DoT DNS服务器优选解析结果，对联通/校园网(当前校园网出国流量走联通)线路十分友好。  
+本DNS从 AliDNS DNSPod IIJ 三个上游 DoT DNS服务器优选解析结果，对联通/校园网(当前校园网出国流量走联通)线路十分友好。  
 因IPv6网络建设尚未完备且教育网路由普遍绕北京，cernet2与hkix的互联亦不稳定，本DNS丢弃IPv6解析结果。  
 DNS已启用[easylist](https://easylist.to/)与[I don't care about cookies](https://www.i-dont-care-about-cookies.eu/)规则，提供了基础的广告过滤功能。若有更激进的去广告需求，建议自行加装Ublock Origin, AdBlock Plus或其他去广告插件。
 
