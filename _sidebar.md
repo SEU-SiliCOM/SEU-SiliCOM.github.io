@@ -6,5 +6,4 @@
 * [实用工具](tools.md)
 * [人物志](biography.md)
 * [SEU_WLAN](seu_net.md)
-* [服务器搭建教程](servers.md)
 * [杂项](archived.md)
