@@ -7,6 +7,8 @@
 文档正在完善，欢迎贡献(PR)  
 评论插件已部署，现可畅所欲言!  
 
+**欢迎访问我们的论坛:[SiliCOM BBS](https://rtfm.top/)**
+
 欢迎加入[**20-SiliCOM电脑答疑群**](https://jq.qq.com/?_wv=1027&k=1SXJiOPz)(QQ)  
 
 `注：移动端访问请点击左下角展开菜单`  
