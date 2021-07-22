@@ -20,7 +20,7 @@
 请先填写问卷：[点我](https://docs.qq.com/form/page/DSnBqUnpFeW1acU1S?_w_tencentdocx_form=1)  
 义诊地点：``  
 义诊时间：``  
-义诊通知：`由于全面疫情防控等原因，本学期义诊已全部结束，如有紧急情况请加入[**21-SiliCOM电脑答疑群**](https://jq.qq.com/?_wv=1027&k=8q3ezAaU)(QQ)并私戳管理员`
+义诊通知：`由于全面疫情防控等原因，本学期义诊已全部结束，如有紧急情况请在21-SiliCOM电脑答疑群内私戳管理员`
 
 ***
 > 捐赠  
