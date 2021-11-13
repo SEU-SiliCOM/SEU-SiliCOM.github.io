@@ -17,8 +17,8 @@
   
 `拆机属于风险操作，请务必认真阅读问卷内容。如求万无一失请去售后寻求专业人士帮助。`  
 请先填写问卷：[点我](https://docs.qq.com/form/page/DSnBqUnpFeW1acU1S?_w_tencentdocx_form=1)  
-义诊地点：`JX-XXX`  
-义诊时间：`XX.XX XX:XX-XX:XX`  
+义诊地点：`J1-202`  
+义诊时间：`11.14 15:00-16:00`  
 义诊通知：已恢复大部分机型的义诊服务。如有紧急情况请在21-SiliCOM电脑答疑群内私戳管理员或按照[本表](https://docs.qq.com/sheet/DVmVzcFhyTE5BRWZT)自行联系急诊人员
 
 ***
