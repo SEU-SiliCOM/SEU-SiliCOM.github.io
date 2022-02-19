@@ -21,7 +21,7 @@
 
 义诊时间：``   
 
-义诊通知：如有紧急情况请在21-SiliCOM电脑答疑群内私戳群主。
+义诊通知：如有紧急情况请在21-SiliCOM电脑答疑群内私戳群主。 
 如急需维修可尝试联系[急诊名单](https://docs.qq.com/sheet/DVmVzcFhyTE5BRWZT?tab=BB08J2) 
 
 > 捐赠  
