@@ -15,14 +15,14 @@
 ***
 > 义诊  
   
-`由于不可抗力，无限期暂停所有服务，硬件的更换与升级视情况给予一定的帮助`  
+`由于不可抗力，硬件的更换与升级视情况给予一定的帮助`  
 ~~请先填写问卷：[点我](https://docs.qq.com/form/page/DSnBqUnpFeW1acU1S?_w_tencentdocx_form=1)~~  
 义诊地点：``   
 
 义诊时间：``   
 
 义诊通知：如有紧急情况请在21-SiliCOM电脑答疑群内私戳群主。
-
+如急需维修可尝试联系[急诊名单](https://docs.qq.com/sheet/DVmVzcFhyTE5BRWZT?tab=BB08J2) 
 
 > 捐赠  
 
