@@ -17,6 +17,7 @@
   
 `由于不可抗力，硬件的更换与升级视情况给予一定的帮助`  
 请先填写问卷：[点我](https://docs.qq.com/form/page/DSnBqUnpFeW1acU1S?_w_tencentdocx_form=1)  
+时间会在周五晚之前更新，若周末仍为空代表本周因故取消  
 义诊地点：``   
 
 义诊时间：``   
