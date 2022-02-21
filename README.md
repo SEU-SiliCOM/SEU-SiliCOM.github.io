@@ -16,7 +16,7 @@
 > 义诊  
   
 `由于不可抗力，硬件的更换与升级视情况给予一定的帮助`  
-~~请先填写问卷：[点我](https://docs.qq.com/form/page/DSnBqUnpFeW1acU1S?_w_tencentdocx_form=1)~~  
+请先填写问卷：[点我](https://docs.qq.com/form/page/DSnBqUnpFeW1acU1S?_w_tencentdocx_form=1)  
 义诊地点：``   
 
 义诊时间：``   
