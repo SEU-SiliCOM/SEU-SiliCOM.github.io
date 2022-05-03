@@ -18,10 +18,10 @@
 `由于不可抗力，硬件的更换与升级视情况给予一定的帮助`  
 请先填写问卷：[点我](https://docs.qq.com/form/page/DSnBqUnpFeW1acU1S?_w_tencentdocx_form=1)  
 时间会在周五晚之前更新，若周末仍为空代表本周因故取消  
-义诊地点：`None`   
 
-义诊时间：`五一放假`   
-
+义诊地点：`J1-202`   
+义诊时间：`5月4日(第10周周三) 19:00~19:30`
+   
 义诊通知：如有紧急情况请在21-SiliCOM电脑答疑群内私戳群主。  
 如急需维修可尝试联系[急诊名单](https://docs.qq.com/sheet/DVmVzcFhyTE5BRWZT?tab=BB08J2) 
 
