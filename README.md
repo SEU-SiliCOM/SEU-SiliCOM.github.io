@@ -21,7 +21,7 @@
 
 义诊地点：`None`   
 义诊时间：`None`<br>
-本学期义诊活动已结束，如有相关问题请联系[急诊名单](https://docs.qq.com/sheet/DVmVzcFhyTE5BRWZT?tab=BB08J2) 
+本学期义诊活动已结束，如有相关问题请联系下方急诊名单
 
 义诊通知：如有紧急情况请在21-SiliCOM电脑答疑群内私戳群主。  
 如急需维修可尝试联系[急诊名单](https://docs.qq.com/sheet/DVmVzcFhyTE5BRWZT?tab=BB08J2) 
