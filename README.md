@@ -19,8 +19,8 @@
 请先填写问卷：[点我](https://docs.qq.com/form/page/DSnBqUnpFeW1acU1S?_w_tencentdocx_form=1)  
 义诊暂时调整为每周进行一次，具体时间与地点会及时更新，若周末仍为空代表本周因故取消  
 
-义诊地点：`J1-202`   
-义诊时间：`9月11日(第1周周日)  19:30~20:30`<br>
+义诊地点：`J1-304`   
+义诊时间：`9月17日(第2周周日)  19:30~20:30`<br>
 
 如有紧急情况请在21-SiliCOM电脑答疑群内私戳群主。  
 如急需维修可尝试联系[急诊名单](https://docs.qq.com/sheet/DVmVzcFhyTE5BRWZT?tab=BB08J2) 
