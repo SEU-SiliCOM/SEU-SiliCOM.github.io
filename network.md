@@ -10,10 +10,11 @@
 > DNSPod `119.29.29.29`  
 阿里DNS `223.5.5.5`  
 Google DNS `8.8.8.8` , `8.8.4.4`  
-open DNS `208.67.222.222` , `208.67.220.220`  
 Cloudflare DNS `1.1.1.1` , `1.0.0.1` 
 
 实际使用请结合自身网络环境设置合适的DNS服务器 (国内用户推荐使用国内延迟较低的DNS)
+
+注意，使用自定义DNS可能会导致你无法访问无线热点的http认证服务
 
 #### ipconfig 命令
 1.Windows键+R运行，输入cmd，回车。  
@@ -34,7 +35,6 @@ Win+S快捷键搜索 `网络重置`
 ![][img2]
 
 
-
 ### 找不到WiFi图标/驱动问题
 
 **笔记本用户先检查键盘的Fn功能区是否禁用了WiFi网卡**  
@@ -46,11 +46,11 @@ Win+S快捷键搜索 `网络重置`
 
    ![win+x][winx]  
 
-展开网络适配器目录，找到你的网卡设备，右键-卸载设备，并勾选“删除此设备的驱动程序软件”。重启。  
+展开网络适配器目录，找到你的网卡设备（注意，若有多张网卡，要选择无线网卡），右键-卸载设备，并勾选“删除此设备的驱动程序软件”。重启。  
 如果未找到相关设备，并找到黄色感叹号的未知设备，请继续下一步。  
 
 1. 在线安装驱动（Windows8及以上）  
-   若有线连接可用，可先连接有线；也可以连接Android手机，使用USB网络共享。  
+   若有线连接可用，可先连接有线；也可以连接手机，使用USB网络共享。  
    Windows会自动在联网后更新/安装驱动。一般只要静待片刻即可。  
    也可手动执行Windows更新；进入设备管理器，找到黄色叹号的设备，右键-更新驱动程序。  
 
@@ -61,12 +61,6 @@ Win+S快捷键搜索 `网络重置`
 3. 系统升级
 
    如果上述方法无效，请直接使用Windows安装镜像升级系统。  
-
-
-### 代理服务器没有响应/Proxy error或相关提示
-
-请检查`VPN或代理`设置是否正确，不正确的配置或者未正常退出会导致此类问题。  
-未正确关闭代理软件会导致此问题，重新运行相关软件并手动退出。（举例: EasyConnect未退出就关机可能引发未知问题)
 
 
 
@@ -82,18 +76,23 @@ Win+S快捷键搜索 `网络重置`
 
 ### 实用检测网站
 [speedtest.net](https://www.speedtest.net/)  测速  
-[fast.com](https://fast.com/zh/cn/)  测速(Netflix服务器，中国大陆不可用)  
+[fast.com]()  Cloudflare测速(无大陆节点)  
+[中科大测速站](https://test.ustc.edu.cn/)
 [ping.pe](https://ping.pe/)  全球ping测试  
-[chinaz.com](https://tool.chinaz.com/sitespeed) 站长测速  
-[ipip.net](https://www.ipip.net/ip.html)  IP库查询  
-[ipip.net](https://tools.ipip.net/traceroute.php)  在线路由跟踪，亦有客户端提供下载  
+[ping.sx](https://ping.sx/)  ping/TCPing/MTR 等在线工具  
+[IT狗](https://www.itdog.cn/) 同上  
+[IPv6查询](https://ip.zxinc.org/ipquery/)  
 [test-ipv6.com](https://test-ipv6.com/)  ipv6测试  
+[ipip.net](https://www.ipip.net/ip.html)  IP库查询  
+[ipip.net](https://tools.ipip.net/traceroute.php) 在线路由跟踪，亦有客户端提供下载  
+
 
 ### 下载工具
-- IDM (付费软件)
-- FDM
-- BitComet (BT/Torrent)
-  
+- [IDM](https://www.lizhi.io/product/idm) (付费软件，数码荔枝是中国区代理)
+- [FDM](https://www.freedownloadmanager.org/zh/)
+- [Motrix](https://motrix.app/)
+- [qBittorrent](https://www.qbittorrent.org/download.php)
+- [Transmission](https://transmissionbt.com/download)
 
 
 ## 网络知识
