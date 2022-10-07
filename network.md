@@ -76,8 +76,8 @@ Win+S快捷键搜索 `网络重置`
 
 ### 实用检测网站
 [speedtest.net](https://www.speedtest.net/)  测速  
-[fast.com]()  Cloudflare测速(无大陆节点)  
-[中科大测速站](https://test.ustc.edu.cn/)
+[Cloudflare测速](https://speed.cloudflare.com/) (无大陆节点)  
+[中科大测速站](https://test.ustc.edu.cn/)  
 [ping.pe](https://ping.pe/)  全球ping测试  
 [ping.sx](https://ping.sx/)  ping/TCPing/MTR 等在线工具  
 [IT狗](https://www.itdog.cn/) 同上  
