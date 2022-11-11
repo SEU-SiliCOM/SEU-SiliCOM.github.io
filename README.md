@@ -33,8 +33,8 @@
 用于购置螺丝刀硅脂等工具耗材。  
 <center>
 <figure>
-<img src="https://i.postimg.cc/W4XRVKjx/QQ-20221111175351.jpg" width = "400" height = "400"/>
-<img src="https://i.postimg.cc/28bCwzmy/QQ-20221111175346.jpg" width = "400" height = "400"/>
+<img src="https://i.postimg.cc/W4XRVKjx/QQ-20221111175351.jpg" width = "400" height = "600"/>
+<img src="https://i.postimg.cc/28bCwzmy/QQ-20221111175346.jpg" width = "400" height = "600"/>
 </figure>
 </center>
 <!-- <font face="微软雅黑" color=red size=6>拆机属于风险操作，请务必认真阅读问卷内容。如求万无一失请去售后寻求专业人士帮助。</font> -->  
