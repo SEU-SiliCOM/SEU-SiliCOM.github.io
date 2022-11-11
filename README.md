@@ -33,7 +33,7 @@
 用于购置螺丝刀硅脂等工具耗材。  
 <center>
 <figure>
-<img src="https://s2.loli.net/2022/11/11/zNfVjWSyLuUEvYw.jpg" width = "400" height = "600"/>
+<img src="https://s2.loli.net/2022/11/11/zNfVjWSyLuUEvYw.jpg" width = "440" height = "600"/>
 <img src="https://s2.loli.net/2022/11/11/UPYbtqANiKwxzsf.jpg" width = "400" height = "600"/>
 </figure>
 </center>
