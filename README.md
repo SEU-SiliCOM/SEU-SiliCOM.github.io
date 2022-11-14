@@ -19,10 +19,13 @@
 请先填写问卷：[点我](https://docs.qq.com/form/page/DSnBqUnpFeW1acU1S?_w_tencentdocx_form=1)  
 义诊暂时调整为每周进行一次，具体时间与地点会及时更新，若周末仍为空代表本周因故取消 
 
+`因协会内部活动安排原因，下周六（2022.11.19 第11周周六）义诊活动取消`
+`如有紧急情况请按下方联系方式联系对应急诊人员`
+
 义诊地点:<br>
-  &emsp;`教1-204`<br>
+  &emsp;`None`<br>
 义诊时间:<br>
-  &emsp;`11月6日(第十周周六) 19:00~20:00`<br>
+  &emsp;`None`<br>
 
 如有紧急情况请在[**21-SiliCOM电脑答疑群**](https://jq.qq.com/?_wv=1027&k=8q3ezAaU)内私戳群管理员。  
 如急需维修可尝试联系[急诊名单](https://docs.qq.com/sheet/DVmVzcFhyTE5BRWZT?tab=BB08J2) 
