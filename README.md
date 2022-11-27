@@ -31,7 +31,7 @@
 如急需维修可尝试联系[急诊名单](https://docs.qq.com/sheet/DVmVzcFhyTE5BRWZT?tab=BB08J2) 
 
 本协会目前对急诊与义诊的工作范围划分如下
-<img src="https://s2.loli.net/2022/11/27/bQfkBXERijvCdtn.png" width = "900" height = "400"/>
+<img src="https://s2.loli.net/2022/11/27/SLw3yNGM5VOQzcU.png" width = "900" height = "300"/>
 
 > 捐赠  
 
