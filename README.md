@@ -22,7 +22,7 @@
 义诊地点:<br>
   &emsp;`教1-204`<br>
 义诊时间:<br>
-  &emsp;`4月8日(第七周周六) 19:00~19:30`<br>
+  &emsp;`4月18日(第八周周六) 19:00~19:30`<br>
 
 如有紧急情况请在[**21-SiliCOM电脑答疑群**](https://jq.qq.com/?_wv=1027&k=8q3ezAaU)内私戳群管理员。  
 如急需维修可尝试联系[急诊名单](https://docs.qq.com/sheet/DVmVzcFhyTE5BRWZT?tab=BB08J2) 
