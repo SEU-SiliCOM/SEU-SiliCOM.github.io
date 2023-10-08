@@ -25,7 +25,12 @@
   &emsp;`10月14日(第四周周六) 19:00~19:30`<br>
 
 如有紧急情况请在[**21-SiliCOM电脑答疑群**](https://jq.qq.com/?_wv=1027&k=8q3ezAaU)内私戳群管理员。  
-如急需维修可尝试联系[急诊名单](https://docs.qq.com/sheet/DVmVzcFhyTE5BRWZT?tab=BB08J2) 
+
+>义诊内容
+
+清灰、重装系统（原系统可以正常进入登录使用)、清理C盘、更换硅脂等。
+
+<!--如急需维修可尝试联系[急诊名单](https://docs.qq.com/sheet/DVmVzcFhyTE5BRWZT?tab=BB08J2) -->
 
 <!--本协会目前对急诊与义诊的工作范围划分如下<img src="https://s2.loli.net/2022/11/27/SLw3yNGM5VOQzcU.png" width = "900" height = "300"/>-->
 
