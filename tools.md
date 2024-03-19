@@ -42,6 +42,7 @@
 [7zip](https://sparanoid.com/lab/7z/) 开源压缩软件，仅1MB大小  
 [Bandizip](https://cn.bandisoft.com/bandizip/) 压缩软件，免费，有广告  
 [火绒安全软件](https://www.huorong.cn/person5.html) 适合国情的轻量防护，不毒瘤  
+[Snipaste](https://zh.snipaste.com/) 相当好用的截图软件，F1秒了！
 (待完善)  
 `无利益相关，仅推荐，自行考虑是否使用`  
 
