@@ -3,7 +3,7 @@
 > 欢迎来到东南大学SiliCOM电脑协会的文档仓库!  
 
 文档由[docsify](https://docsify.js.org/)生成，托管于Gitee Pages.  
-仓库地址：[https://gitee.com/silicom/silicom](https://gitee.com/silicom/silicom)  
+仓库地址：[https://github.com/SEU-SiliCOM/SEU-SiliCOM.github.io](https://github.com/SEU-SiliCOM/SEU-SiliCOM.github.io)  
 文档正在完善，欢迎贡献(PR)  
 评论插件已部署，现可畅所欲言!  
 
