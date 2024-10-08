@@ -9,7 +9,7 @@
 
 > 欢迎访问我们的论坛:[SiliCOM BBS](https://rtfm.top/)
 
-欢迎加入[**SiliCOM电脑答疑群**](https://jq.qq.com/?_wv=1027&k=8q3ezAaU)(QQ)!  
+欢迎加入[**SiliCOM电脑答疑群**](https://qm.qq.com/cgi-bin/qm/qr?k=mAa_jeGQf3mkVqX0DBVvOmHzWXnSUcRB&jump_from=webapi&authKey=dCZkjIlbEIClYvl3ziEV2tb+QO8zGiuSzgpwNj7ckAPpeLKn3h66tY+McKgyTAqB)(QQ)! 
 `注：移动端访问请点击左下角展开菜单`  
 
 ***
@@ -26,7 +26,7 @@
 义诊时间:<br>
   &emsp;`10月11日(第四周周五) 19：00~20：00`<br>
 
-如有紧急情况请在[**21-SiliCOM电脑答疑群**](https://jq.qq.com/?_wv=1027&k=8q3ezAaU)内私戳群管理员。  
+如有紧急情况请在[**SiliCOM电脑答疑群**](https://qm.qq.com/cgi-bin/qm/qr?k=mAa_jeGQf3mkVqX0DBVvOmHzWXnSUcRB&jump_from=webapi&authKey=dCZkjIlbEIClYvl3ziEV2tb+QO8zGiuSzgpwNj7ckAPpeLKn3h66tY+McKgyTAqB)内私戳群管理员。  
 
 >义诊内容
 
@@ -42,8 +42,8 @@
 用于购置螺丝刀硅脂等工具耗材。  
 <center>
 <figure>
-<img src="https://s2.loli.net/2022/11/11/zNfVjWSyLuUEvYw.jpg" width = "440" height = "600"/>
-<img src="https://s2.loli.net/2022/11/11/UPYbtqANiKwxzsf.jpg" width = "400" height = "600"/>
+<img src="https://s2.loli.net/2024/10/06/odV5PMSCUavGBAR.png" width = "440" height = "600"/>
+<img src="https://s2.loli.net/2024/10/06/TqFICtodnxKjzeg.png" width = "400" height = "600"/>
 </figure>
 </center>
 <!-- <font face="微软雅黑" color=red size=6>拆机属于风险操作，请务必认真阅读问卷内容。如求万无一失请去售后寻求专业人士帮助。</font> -->  
