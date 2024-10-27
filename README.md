@@ -22,9 +22,9 @@
 <br>
 
 义诊地点:<br>
-  &emsp;`教1-302 `<br>
+  &emsp;`教1-202 `<br>
 义诊时间:<br>
-  &emsp;`10月25日(第六周周五) 19：00~20：00`<br>
+  &emsp;`11月1日(第七周周五) 19：00~20：00`<br>
 
 如有紧急情况请在[**SiliCOM电脑答疑群**](https://qm.qq.com/cgi-bin/qm/qr?k=mAa_jeGQf3mkVqX0DBVvOmHzWXnSUcRB&jump_from=webapi&authKey=dCZkjIlbEIClYvl3ziEV2tb+QO8zGiuSzgpwNj7ckAPpeLKn3h66tY+McKgyTAqB)内私戳群管理员。  
 
